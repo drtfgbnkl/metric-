@@ -449,16 +449,6 @@ a {
     box-shadow: 0 4px 15px rgba(107, 76, 154, 0.3);
 }
 
-.discount-badge.discount-12 {
-    background: linear-gradient(135deg, #E74C3C 0%, #C0392B 100%);
-}
-
-.discount-badge.discount-18 {
-    background: linear-gradient(135deg, #27AE60 0%, #229954 100%);
-    font-size: 16px;
-    padding: 10px 30px;
-}
-
 .price-card h3 {
     font-size: 20px;
     color: #2a1a4a;
